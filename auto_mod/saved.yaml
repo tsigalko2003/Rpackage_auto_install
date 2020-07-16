@@ -1,0 +1,36 @@
+car:        #test 1 test add
+stringr:       #test 2  11/03/20198
+tidyxl:   #test commends tao
+httr:  #test commends
+rvest:   #test non-hpcswadm user modification
+BiocManager:  #testtest
+survival: #test for 4 architectures 
+GenomicFeatures: #test biocManager-mod
+zoom:
+ztable: test
+knitr: demo2
+gbRd: r4
+formatR: r4
+qvalue:
+DESeq2:
+edgeR:
+tidyverse:
+sva:
+Glimma:
+GSVA:
+EnhancedVolcano:
+variancePartition:
+PCAtools:
+highr: r4
+RJSONIO: r4
+ontoProc: r4
+rols: r4
+sincell: r4
+ontologyIndex: r4
+ggplot2: r4
+ggrepel: r4
+gghighlight: r4
+plotly: r4
+tidytext: r4
+caret: r4
+limma: test1

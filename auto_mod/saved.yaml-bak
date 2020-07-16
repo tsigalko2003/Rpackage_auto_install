@@ -1,0 +1,26 @@
+car:        #test 1 test add
+stringr:       #test 2  11/03/20198
+tidyxl:   #test commends tao
+httr:  #test commends
+rvest:   #test non-hpcswadm user modification
+BiocManager:  #testtest
+survival: #test for 4 architectures 
+GenomicFeatures: #test biocManager-mod
+zoom:
+ztable: test
+knitr: demo2
+gbRd: r4
+formatR: r4
+qvalue:
+DESeq2:
+edgeR:
+tidyverse:
+sva:
+Glimma:
+limma:
+GSVA:
+EnhancedVolcano:
+variancePartition:
+PCAtools:
+highr: r4
+RJSONIO: r4
